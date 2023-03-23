@@ -21,9 +21,7 @@
         padding: 22px ;
     }
     .sider{
-        position: absolute;
-        right:0px;
-        bottom:0px;
+       margin-left: 40px;
     }
 
 
@@ -132,6 +130,7 @@ strong{
     height: 300px;
     margin-left: 89px;
 }
+
 
 
 }
