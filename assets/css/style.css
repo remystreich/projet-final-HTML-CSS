@@ -142,7 +142,6 @@ ul{
 footer{
     writing-mode: vertical-lr;
     position: absolute bottom left;
-    
     display: flex;
     justify-content:end;
     align-items: center;
@@ -185,6 +184,7 @@ footer{
 }
 #lightbutton{
     display: none;
+    
 }
 #darkbutton{
     display: block;

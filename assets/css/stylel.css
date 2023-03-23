@@ -179,13 +179,12 @@ footer{
     width: 19px;
     height: 19px;
     margin-bottom: 9px;
-    cursor: pointer;
-  
-    
+    cursor: pointer;  
 }
 
 #lightbutton{
     display: block;
+    margin: 5px;
 }
 #darkbutton{
     display: none;
