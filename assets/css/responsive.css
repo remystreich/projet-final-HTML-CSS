@@ -1,0 +1,144 @@
+@media screen and (max-width: 768px ) {
+
+    h2,h3{
+        font-size: 17px;
+
+    }
+    p{
+        font-size: 15px
+    };
+    /*****************************************contenu************************************/
+    article{
+        margin: 20px 20px 20px 0px;
+        padding: 17px;
+    }
+    h1{
+        font-size: 35px;
+    }
+    main{
+        flex-direction: column;
+        margin: 15px 15px 15px 0px;
+        padding: 22px ;
+    }
+    .sider{
+        position: absolute;
+        right:0px;
+        bottom:0px;
+    }
+
+
+    /***********************************footer*************/
+footer{
+    writing-mode: vertical-lr;
+    position: absolute bottom left;
+    
+    display: flex;
+    justify-content:end;
+    padding-right: 10px;
+    flex: 1;
+    width: 3px;
+    
+   
+}
+#currentp{
+    font-size: 25px;
+    
+}
+#loby{
+    font-size: 17px;
+    bottom: 20px;
+}
+
+
+/*********************************************************langages***/
+.logo{
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+}
+.logocss{
+    width: 80px;
+    height: 100px;
+    margin: 15px;
+    padding-left: 9px;
+}
+.langlogo{
+    flex-direction: column;
+    
+}
+#langages{
+    display: flex;
+}
+#html{
+    margin-top: 35px;
+}
+#css{
+    margin-top: 140px;
+}
+#js{
+    margin-top: 280px;
+}
+#php{
+    margin-top: 400px;
+}
+#python{
+    margin-top: 500px;
+}
+
+#asidelang{
+    margin: 0;
+}
+
+.langlogo{
+    margin:0
+}
+   
+
+/*************************************************intro******************/
+.textimgl{
+    flex-direction: column;
+    
+    
+}
+
+strong{
+    font-size: 18px;
+}
+
+
+/**************************front/back*/
+.bfexplain{
+    flex-direction: column;
+    align-items: center;
+
+  }
+  .bfexplain :nth-child(2){
+    margin-left: 30px;
+  }
+
+  .bfexplain :first-child{
+    width: 300px;
+    height: 300px;
+    display: block;
+  }
+  aside img{
+    display: none;
+  }
+
+  /***************************etapes*/
+  .illustration{
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin-left: 89px;
+}
+
+
+}
+
+ 
+
+
+
+
+
