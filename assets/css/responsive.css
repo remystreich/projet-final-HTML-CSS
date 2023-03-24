@@ -71,7 +71,10 @@ footer{
 .langlogo{
     overflow-x: scroll;
     height: 250px;
-    padding-left: 400px;
+    justify-content: left;
+    
+
+    
 }
 
 
