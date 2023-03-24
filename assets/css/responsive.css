@@ -62,38 +62,18 @@ footer{
 
 /*********************************************************langages***/
 .logo{
-    width: 100px;
-    height: 100px;
     margin: 15px;
 }
 .logocss{
-    width: 80px;
-    height: 100px;
     margin: 15px;
     padding-left: 9px;
 }
 .langlogo{
-    flex-direction: column;
-    
+    overflow-x: scroll;
+    height: 250px;
+    padding-left: 400px;
 }
-#langages{
-    display: flex;
-}
-#html{
-    margin-top: 35px;
-}
-#css{
-    margin-top: 140px;
-}
-#js{
-    margin-top: 280px;
-}
-#php{
-    margin-top: 400px;
-}
-#python{
-    margin-top: 500px;
-}
+
 
 #asidelang{
     margin: 0;
@@ -140,6 +120,7 @@ strong{
     display: block;
     width: 300px;
     height: 300px;
+    margin: auto;
 }
 
 body{
